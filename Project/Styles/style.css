@@ -1,0 +1,47 @@
+.header
+{   
+    height: 50px;
+    background-color: black;
+    width:100%;
+}
+.header-text
+{
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    bottom: 10px;
+    left:20%;
+    color: white;
+}
+.textbox
+{
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px;
+    position: relative;
+    height:30px;
+    top: -20px;
+}
+.button
+{
+    border-radius: 5px;
+    position: relative;
+    padding: 5px 5px 5px 5px;
+    bottom: 10px;
+    height:30px;
+    top: -20px;
+    right:0px;
+    width: 100px;
+    background-color: white;
+    color: black;
+}
+.bold-font
+{
+    font-weight: 2em;
+}
+.search-holder
+{
+    align-content: flex-end;
+    position: relative;
+    top:-50px;
+    left: 78%;
+}
